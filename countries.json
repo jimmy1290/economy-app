@@ -1,0 +1,26 @@
+{
+    "1395426193938972702": {
+        "name": "UN",
+        "wallet": 2900,
+        "income": 100,
+        "items": {}
+    },
+    "1009907299147583549": {
+        "name": "Iran",
+        "wallet": 20900,
+        "income": 5100,
+        "items": {
+            "bank": 1,
+            "tourism1": 1,
+            "tourism2": 1
+        }
+    },
+    "1254088541529571428": {
+        "name": "Iraq",
+        "wallet": 2000,
+        "income": 1500,
+        "items": {
+            "tourism1": 1
+        }
+    }
+}
